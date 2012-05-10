@@ -5,7 +5,7 @@
 1. Create a Google AppEngine account
 2. Create an app within your account
 3. Add your app name to the app.yaml file
-4. $ python ~/path/to/google_appengine/appcfg.py update ~/path/to/blog/folder/
+4. $ python ~/<path_to>/google_appengine/appcfg.py update ~/<path_to_blog_folder>/
 
 
 
