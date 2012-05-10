@@ -7,7 +7,7 @@
 3. Add your app name to the app.yaml file
 4. $ python ~/path/to/google_appengine/appcfg.py update ~/path/to/blog/folder/
 
-
+Tada!  You should be able to visit the the url containing your_app_name.appspot.com
 
 
 # If you need help installing AppEngine on a Linux machine
